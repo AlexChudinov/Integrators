@@ -1,0 +1,5 @@
+EXPORTS
+    DllMain @1
+    create_integrator_interface @2
+    delete_integrator_interface @3
+    do_integrator_step @4
